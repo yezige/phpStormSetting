@@ -1,0 +1,59 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>GeneralPHP</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>PHP Strict StandardsPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CSS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="liuzhi">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="svn://172.16.37.168/wap" />
+        <option value="svn://172.16.37.168/caissa-sid-dev" />
+        <option value="svn://172.16.37.168/supplier" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn://172.16.37.168/wap" />
+        <option value="svn://172.16.37.168/caissa-sid-dev" />
+        <option value="http://172.16.37.238:801/svn/CAISSA_SID_Develop/" />
+        <option value="svn://172.16.37.168/supplier" />
+        <option value="svn://172.16.37.168/caissa-sid-dev/supplier" />
+      </list>
+    </option>
+  </component>
+</application>
