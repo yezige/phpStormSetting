@@ -323,11 +323,17 @@
       <path value="主工具栏" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="14">
+    <group value="ReformatCode" is_action="true" action_type="1" position="14">
       <path value="root" />
       <path value="主工具栏" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="主工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="ReformatCode" />
     <action id="EditorToggleCase" />
     <action id="UpdateFiles" />
   </component>
