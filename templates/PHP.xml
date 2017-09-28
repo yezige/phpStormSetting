@@ -1,8 +1,0 @@
-<templateSet group="PHP">
-  <template name="since" value="since $date$" description="'since' statement" toReformat="false" toShortenFQNames="true">
-    <variable name="date" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="false" />
-    <context>
-      <option name="PHP Comment" value="true" />
-    </context>
-  </template>
-</templateSet>
