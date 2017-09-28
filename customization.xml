@@ -90,6 +90,18 @@
       <path value="主工具栏" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group seperator="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Stop" is_action="true" action_type="-1" position="3">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Synchronize" is_action="true" action_type="-1" position="2">
       <path value="root" />
       <path value="主工具栏" />
@@ -98,17 +110,6 @@
     <group value="RunnerActions" is_group="true" action_type="-1" position="2">
       <path value="root" />
       <path value="主工具栏" />
-      <path value="工具栏运行操作" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="NavBarVcsGroup" is_group="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RunnerActions" is_group="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
       <path value="工具栏运行操作" />
       <option name="myInitialPosition" value="-1" />
     </group>
@@ -125,21 +126,10 @@
       <path value="VCS操作" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RunConfiguration" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="工具栏运行操作" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="-1" position="0">
       <path value="root" />
       <path value="主工具栏" />
       <path value="工具栏运行操作" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ToolbarRunGroup" is_group="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="-1" position="0">
@@ -160,7 +150,12 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="ToolbarRunGroup" is_group="true" action_type="1" position="2">
+    <group seperator="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UpdateFiles" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
@@ -170,16 +165,6 @@
       <path value="主工具栏" />
       <path value="MainToolBarSettings" />
       <path value="VCS操作" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="UpdateFiles" is_action="true" action_type="1" position="5">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="NavBarVcsGroup" is_group="true" action_type="1" position="6">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ShowSettings" is_action="true" action_type="1" position="7">
