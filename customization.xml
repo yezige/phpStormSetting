@@ -1,0 +1,191 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="tasks.toolbar.group" is_group="true" action_type="-1" position="21">
+      <path value="root" />
+      <path value="主工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProfilingActions" is_group="true" action_type="-1" position="20">
+      <path value="root" />
+      <path value="主工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="19">
+      <path value="root" />
+      <path value="主工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="HelpTopics" is_action="true" action_type="-1" position="18">
+      <path value="root" />
+      <path value="主工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="17">
+      <path value="root" />
+      <path value="主工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Forward" is_action="true" action_type="-1" position="13">
+      <path value="root" />
+      <path value="主工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Back" is_action="true" action_type="-1" position="12">
+      <path value="root" />
+      <path value="主工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="11">
+      <path value="root" />
+      <path value="主工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToolbarFindGroup" is_group="true" action_type="-1" position="10">
+      <path value="root" />
+      <path value="主工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$Paste" is_action="true" action_type="-1" position="9">
+      <path value="root" />
+      <path value="主工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$Copy" is_action="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="主工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$Cut" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="主工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="主工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$Redo" is_action="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="主工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBarToolBarOthers" is_group="true" action_type="-1" position="5">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="$Undo" is_action="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="主工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Synchronize" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="主工具栏" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunnerActions" is_group="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="主工具栏" />
+      <path value="工具栏运行操作" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBarVcsGroup" is_group="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunnerActions" is_group="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="工具栏运行操作" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunConfiguration" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="主工具栏" />
+      <path value="工具栏运行操作" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CheckinProject" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="主工具栏" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS操作" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunConfiguration" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="工具栏运行操作" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="主工具栏" />
+      <path value="工具栏运行操作" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToolbarRunGroup" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="工具栏运行操作" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UpdateFiles" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="主工具栏" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS操作" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorToggleCase" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToolbarRunGroup" is_group="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CheckinProject" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="主工具栏" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS操作" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UpdateFiles" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBarVcsGroup" is_group="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowSettings" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
