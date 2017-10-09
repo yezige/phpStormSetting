@@ -1,5 +1,23 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="UML.Group" is_group="true" action_type="-1" position="39">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="项目视图下拉菜单" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PhpStorm.RemoveBom" is_group="true" action_type="-1" position="36">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="项目视图下拉菜单" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SynchronizeCurrentFile" is_action="true" action_type="-1" position="24">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="项目视图下拉菜单" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="tasks.toolbar.group" is_group="true" action_type="-1" position="21">
       <path value="root" />
       <path value="主工具栏" />
@@ -130,6 +148,13 @@
       <path value="root" />
       <path value="主工具栏" />
       <path value="工具栏运行操作" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RunContextPopupGroup" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="项目视图下拉菜单" />
+      <path value="项目视图弹出运行组菜单" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="-1" position="0">
