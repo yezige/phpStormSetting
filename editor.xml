@@ -22,6 +22,7 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
+    <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
