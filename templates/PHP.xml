@@ -2,14 +2,12 @@
   <template name="rqro" value="require_once &quot;$END$&quot;;" description="'require_once' statement" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="PHP Comment" value="true" />
-      <option name="PHP Expression" value="false" />
     </context>
   </template>
   <template name="since" value="since $DATE$" description="生效日期" toReformat="false" toShortenFQNames="true">
     <variable name="DATE" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Comment" value="true" />
-      <option name="PHP Statement" value="true" />
     </context>
   </template>
 </templateSet>

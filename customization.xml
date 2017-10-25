@@ -78,29 +78,14 @@
       <path value="主工具栏" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="SearchEverywhere" is_action="true" action_type="-1" position="7">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="-1" position="6">
       <path value="root" />
       <path value="主工具栏" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="6">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="$Redo" is_action="true" action_type="-1" position="5">
       <path value="root" />
       <path value="主工具栏" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="NavBarToolBarOthers" is_group="true" action_type="-1" position="5">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="$Undo" is_action="true" action_type="-1" position="4">
@@ -113,11 +98,6 @@
       <path value="Navigation Bar Toolbar" />
       <path value="NavBarVcsGroup" />
       <path value="VcsNavBarToobarActions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Stop" is_action="true" action_type="-1" position="3">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Synchronize" is_action="true" action_type="-1" position="2">
@@ -148,13 +128,6 @@
       <path value="root" />
       <path value="主工具栏" />
       <path value="工具栏运行操作" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RunContextPopupGroup" is_group="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Scope View Popup Menu" />
-      <path value="项目视图下拉菜单" />
-      <path value="项目视图弹出运行组菜单" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="-1" position="0">
