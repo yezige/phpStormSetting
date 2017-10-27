@@ -1,5 +1,18 @@
 <application>
-  <component name="NotificationConfiguration">
+  <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="Debugger" shouldLog="false" />
+    <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Platform and Plugin Updates" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Power Save Mode" shouldLog="false" />
+    <notification groupId="Project Loading Error" shouldLog="false" />
+    <notification groupId="Project Startup Tasks Messages" displayType="NONE" shouldLog="false" />
+    <notification groupId="scrolling-capabilities-debug" displayType="NONE" shouldLog="false" />
+    <notification groupId="System Health (minor)" displayType="NONE" shouldLog="false" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Vcs Messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Vcs Notifications" shouldLog="false" />
+    <notification groupId="Vcs Silent Notifications" displayType="NONE" shouldLog="false" />
   </component>
 </application>
