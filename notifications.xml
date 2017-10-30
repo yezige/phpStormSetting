@@ -1,8 +1,9 @@
 <application>
-  <component name="NotificationConfiguration" showBalloons="false">
+  <component name="NotificationConfiguration">
     <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" shouldLog="false" />
-    <notification groupId="Debugger" shouldLog="false" />
+    <notification groupId="Debugger" displayType="NONE" shouldLog="false" />
     <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="PHP Interpreters" shouldLog="false" />
     <notification groupId="Platform and Plugin Updates" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Plugins Suggestion" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Power Save Mode" shouldLog="false" />
