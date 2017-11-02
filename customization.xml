@@ -1,0 +1,83 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Images.ShowThumbnails" is_action="true" action_type="-1" position="17">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="AddToFavorites" is_group="true" action_type="-1" position="16">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="-1" position="15">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="InspectCode" is_action="true" action_type="-1" position="12">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="FindUsages" is_action="true" action_type="-1" position="9">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="Project View Popup Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="6">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NavBarToolBarOthers" is_group="true" action_type="-1" position="4">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ToolbarRunGroup" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="UpdateFiles" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorToggleCase" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PhpListenDebugAction" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group seperator="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ShowSettings" is_action="true" action_type="1" position="7">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="EditorToggleCase" icon="D:/work/up and down.png" />
+    <action id="UpdateFiles" icon="D:/work/download.png" />
+  </component>
+</application>
