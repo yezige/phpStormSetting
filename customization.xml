@@ -1,5 +1,71 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="ComposerGroup" is_group="true" action_type="-1" position="44">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="项目视图下拉菜单" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Javascript.Linters.StandardJS.Fix" is_action="true" action_type="-1" position="43">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="项目视图下拉菜单" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Javascript.Linters.EsLint.Fix" is_action="true" action_type="-1" position="42">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="项目视图下拉菜单" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Javascript.Linters.JSCS.Fix" is_action="true" action_type="-1" position="41">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="项目视图下拉菜单" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="JS.TypeScript.Compile.Current" is_action="true" action_type="-1" position="40">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="项目视图下拉菜单" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="group.Show Grunt Tasks" is_group="true" action_type="-1" position="39">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="项目视图下拉菜单" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Images.SetBackgroundImage" is_action="true" action_type="-1" position="38">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="项目视图下拉菜单" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="XmlGenerateToolsGroup" is_group="true" action_type="-1" position="37">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="项目视图下拉菜单" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="PhpStorm.RemoveBom" is_group="true" action_type="-1" position="36">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="项目视图下拉菜单" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SynchronizeCurrentFile" is_action="true" action_type="-1" position="24">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="项目视图下拉菜单" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ProjectViewPopupMenuRunGroup" is_group="true" action_type="-1" position="21">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
+      <path value="项目视图下拉菜单" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="SearchEverywhere" is_action="true" action_type="-1" position="6">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -9,6 +75,11 @@
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="工具栏运行操作" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="ScopeView.EditScopes" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Scope View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="RunnerActions" is_group="true" action_type="-1" position="2">
@@ -58,8 +129,8 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="EditorUnSelectWord" icon="D:/work/up and down.png" />
     <action id="EditorToggleCase" icon="D:/work/up and down.png" />
     <action id="UpdateFiles" icon="D:/work/download.png" />
+    <action id="EditorUnSelectWord" icon="D:/work/up and down.png" />
   </component>
 </application>

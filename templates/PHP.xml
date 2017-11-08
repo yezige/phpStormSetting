@@ -58,4 +58,11 @@
     <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="since" value="since $NOW$" description="since" toReformat="false" toShortenFQNames="true">
+    <variable name="NOW" expression="date(&quot;yyyy-mm-dd&quot;)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="PHP Comment" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>

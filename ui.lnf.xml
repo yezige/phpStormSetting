@@ -6,6 +6,7 @@
     <option name="MAX_CLIPBOARD_CONTENTS" value="1" />
     <option name="SHOW_TABS_TOOLTIPS" value="false" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
+    <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
 </application>

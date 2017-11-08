@@ -1,11 +1,11 @@
-<scheme name="_@user_Monokai" version="142" parent_scheme="Darcula">
+<scheme name="Monokai edited" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-11-07T18:44:12</property>
+    <property name="created">2017-11-08T10:16:33</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-11-08T10:16:06</property>
-    <property name="originalScheme">Monokai</property>
+    <property name="modified">2017-11-08T10:21:39</property>
+    <property name="originalScheme">Monokai copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -265,14 +265,31 @@
     <option name="CSS.BRACES">
       <value />
     </option>
+    <option name="CSS.BRACKETS">
+      <value />
+    </option>
+    <option name="CSS.COLON">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="272822" />
+      </value>
+    </option>
     <option name="CSS.COMMENT">
       <value>
         <option name="FOREGROUND" value="75715e" />
       </value>
     </option>
+    <option name="CSS.DOT">
+      <value />
+    </option>
     <option name="CSS.FUNCTION">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
+      </value>
+    </option>
+    <option name="CSS.HASH">
+      <value>
+        <option name="FOREGROUND" value="a6e22e" />
       </value>
     </option>
     <option name="CSS.IDENT">
@@ -285,6 +302,14 @@
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
+    <option name="CSS.OPERATORS">
+      <value>
+        <option name="FOREGROUND" value="f92672" />
+      </value>
+    </option>
+    <option name="CSS.PARENTHESES">
+      <value />
+    </option>
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
@@ -294,12 +319,31 @@
     <option name="CSS.PROPERTY_VALUE">
       <value>
         <option name="FOREGROUND" value="68e868" />
-        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.PSEUDO">
+      <value>
+        <option name="FOREGROUND" value="a6e22e" />
+      </value>
+    </option>
+    <option name="CSS.SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="CSS.STRING">
+      <value>
+        <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
     <option name="CSS.TAG_NAME">
       <value>
         <option name="FOREGROUND" value="f92672" />
+      </value>
+    </option>
+    <option name="CSS.UNICODE.RANGE">
+      <value>
+        <option name="FOREGROUND" value="a6e22e" />
       </value>
     </option>
     <option name="CSS.URL">
@@ -848,6 +892,62 @@
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
+    <option name="JS.BADCHARACTER">
+      <value>
+        <option name="FOREGROUND" value="f8f8f0" />
+        <option name="BACKGROUND" value="f92672" />
+      </value>
+    </option>
+    <option name="JS.BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="75715e" />
+      </value>
+    </option>
+    <option name="JS.BRACES">
+      <value />
+    </option>
+    <option name="JS.BRACKETS">
+      <value />
+    </option>
+    <option name="JS.CLASS">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="272822" />
+      </value>
+    </option>
+    <option name="JS.COMMA">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="JS.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="75715e" />
+      </value>
+    </option>
+    <option name="JS.DOC_MARKUP">
+      <value>
+        <option name="FOREGROUND" value="75715e" />
+      </value>
+    </option>
+    <option name="JS.DOC_TAG">
+      <value>
+        <option name="FOREGROUND" value="75715e" />
+      </value>
+    </option>
+    <option name="JS.DOT">
+      <value />
+    </option>
+    <option name="JS.FUNCTION_ARROW">
+      <value>
+        <option name="FOREGROUND" value="f92672" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="a6e22e" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -864,9 +964,22 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JS.PARENTHS">
+      <value />
+    </option>
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="e6db74" />
+      </value>
+    </option>
+    <option name="JS.SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="JS.STATIC_MEMBER_VARIABLE">
+      <value>
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="LABEL">
@@ -954,6 +1067,18 @@
     <option name="OC_FORMAT_TOKEN">
       <value>
         <option name="FOREGROUND" value="e6db74" />
+      </value>
+    </option>
+    <option name="PHP_BRACES">
+      <value />
+    </option>
+    <option name="PHP_BRACKETS">
+      <value />
+    </option>
+    <option name="PHP_CLASS">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="272822" />
       </value>
     </option>
     <option name="PHP_PARAMETER">
