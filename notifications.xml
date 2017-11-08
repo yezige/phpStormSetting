@@ -1,5 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Debugger" displayType="NONE" shouldLog="false" />
     <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="IDE and Plugin Updates" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="JSON Schema" displayType="NONE" shouldLog="false" />
