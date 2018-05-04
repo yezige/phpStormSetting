@@ -1,33 +1,6 @@
 <application>
-  <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="CSS" value="true" />
-        <entry key="HTML" value="true" />
-        <entry key="JSON" value="true" />
-        <entry key="JavaScript" value="true" />
-        <entry key="PHP" value="true" />
-        <entry key="TypeScript" value="true" />
-        <entry key="XHTML" value="true" />
-        <entry key="XML" value="true" />
-      </map>
-    </option>
-    <option name="STRIP_TRAILING_SPACES" value="None" />
-    <option name="CARET_BLINKING_PERIOD" value="1500" />
-    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="IS_WHITESPACES_SHOWN" value="true" />
-    <option name="IS_ANIMATED_SCROLLING" value="false" />
-    <option name="IS_DND_ENABLED" value="false" />
-    <option name="ADD_CARETS_ON_DOUBLE_CTRL" value="false" />
-    <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
-  </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="showCssColorPreviewInGutter" value="false" />
-    <option name="tagTreeHighlightingEnabled" value="false" />
   </component>
 </application>
